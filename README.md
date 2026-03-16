@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Võ Văn Tú Tài</h1>
-<h3 align="center">Software Engineering Student | Full-stack Developer | Backend Enthusiast</h3>
+<h3 align="center">Information Systems Student | Full-stack Developer | Backend-focused Builder</h3>
 
 <p align="center">
-  <img src="https://readme-svg-typing-generator.vercel.app/api/svg?lines=Full-stack+Developer;Backend-oriented+Builder;Node.js+%7C+React+%7C+PHP;MySQL+%7C+PostgreSQL+%7C+MongoDB;Learning+Microservices+%26+DevOps&width=750&height=90" alt="Typing SVG" />
+  <img src="https://readme-svg-typing-generator.vercel.app/api/svg?lines=Full-stack+Developer;Backend-focused+Builder;Node.js+%7C+React+%7C+PHP;MySQL+%7C+PostgreSQL+%7C+MongoDB;Learning+Microservices+%26+DevOps&width=750&height=90" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,31 +19,31 @@
 
 ## 🚀 About Me
 
-I am a **Software Engineering student** at the **Industrial University of Ho Chi Minh City (IUH)** with a strong interest in building **modern web applications**, designing **backend systems**, and learning how to create **scalable, maintainable software**.
+I am an **Information Systems student** at **Industrial University of Ho Chi Minh City (IUH)** with a strong passion for building **modern web applications**, designing **efficient backend systems**, and learning how to create **scalable, maintainable software**.
 
-I enjoy turning ideas into real products through clean architecture, practical development workflows, and continuous learning. My main focus is on **full-stack development**, with a growing interest in **backend engineering**, **microservices**, and **DevOps practices**.
+My main focus is **full-stack development**, while continuously improving my skills in **backend engineering**, **microservices**, and **DevOps practices**. I enjoy transforming ideas into real products through clean architecture, practical workflows, and continuous learning.
 
-- 🎓 Major: **Software Engineering**
-- 🔭 Currently working on:
-  - **Tourist Accommodation Management System**
-  - **Cab Booking System**
-- 🌱 Currently learning:
-  - **Microservices Architecture**
-  - **Docker & DevOps**
-  - **Linux / Nginx / Kubernetes**
-- 💡 Interested in:
-  - **Backend Development**
-  - **System Design**
-  - **Scalable Web Applications**
-- 🤝 Open to collaboration on:
-  - **Node.js**
-  - **React**
-  - **Open Source Projects**
-- 💬 Ask me about:
-  - **Web Development**
-  - **MySQL / PostgreSQL / MongoDB**
-  - **Git & GitHub workflows**
-  - **REST API development**
+- 🎓 **Major:** Information Systems
+- 🔭 **Currently working on:**  
+  - Tourist Accommodation Management System  
+  - Cab Booking System
+- 🌱 **Currently learning:**  
+  - Microservices Architecture  
+  - Docker & DevOps  
+  - Linux / Nginx / Kubernetes
+- 💡 **Interested in:**  
+  - Backend Development  
+  - System Design  
+  - Scalable Web Applications
+- 🤝 **Open to collaborate on:**  
+  - Node.js Projects  
+  - React Applications  
+  - Open Source Contributions
+- 💬 **Ask me about:**  
+  - Web Development  
+  - REST API Development  
+  - MySQL / PostgreSQL / MongoDB  
+  - Git & GitHub Workflows
 
 ---
 
@@ -74,11 +74,11 @@ I enjoy turning ideas into real products through clean architecture, practical d
 ## 📌 Featured Projects
 
 ### 🏨 Tourist Accommodation Management System
-A full-stack application built to manage tourist accommodation operations, including room management, customer handling, booking workflows, and service coordination.
+A full-stack application designed to support accommodation operations such as room management, customer handling, booking workflows, and service coordination.
 
-**Highlights:**
-- Designed to support practical accommodation management scenarios
-- Focused on maintainable backend logic and database structure
+**Key Highlights**
+- Designed for practical accommodation management scenarios
+- Focused on maintainable backend logic and efficient database structure
 - Built with a full-stack approach for real-world usability
 
 **Tech Stack:** `Node.js` `Express.js` `React` `MySQL`  
@@ -87,12 +87,12 @@ A full-stack application built to manage tourist accommodation operations, inclu
 ---
 
 ### 🚕 Cab Booking System
-A booking platform that simulates real-world transportation workflows, with a focus on modular architecture, scalability, and service-oriented thinking.
+A booking platform that simulates real-world transportation workflows, with an emphasis on modular architecture, scalability, and service-oriented design.
 
-**Highlights:**
-- Explores scalable backend design
-- Suitable for learning microservices-based thinking
-- Structured to support feature expansion in the future
+**Key Highlights**
+- Explores scalable backend design concepts
+- Applies microservices-oriented thinking
+- Structured for future feature expansion and maintainability
 
 **Tech Stack:** `Node.js` `React` `Microservices`  
 **Repository:** [View Project](https://github.com/your-username/your-repo)
@@ -100,12 +100,12 @@ A booking platform that simulates real-world transportation workflows, with a fo
 ---
 
 ### ✅ Task Management System
-A web-based system for tracking work progress, managing tasks, and supporting productivity in team or personal projects.
+A web-based system for managing tasks, tracking progress, and improving productivity for both personal and team-based workflows.
 
-**Highlights:**
-- Helps organize workflow clearly
-- Supports task tracking and progress visibility
-- Designed with a simple and practical user experience
+**Key Highlights**
+- Provides clear task organization and workflow visibility
+- Supports progress tracking in a simple, practical interface
+- Built with usability and maintainability in mind
 
 **Tech Stack:** `Node.js` `React`  
 **Repository:** [View Project](https://github.com/your-username/your-repo)
@@ -114,28 +114,28 @@ A web-based system for tracking work progress, managing tasks, and supporting pr
 
 ## 📈 What I'm Improving
 
-I am continuously improving my knowledge and hands-on experience in:
+I am continuously strengthening my skills in:
 
 - Building clean and reusable **React** interfaces
-- Developing robust **RESTful APIs**
+- Developing robust and maintainable **RESTful APIs**
 - Designing efficient **database schemas**
-- Working with **SQL and NoSQL databases**
+- Working with both **SQL** and **NoSQL** databases
 - Using **Docker** for development and deployment
 - Applying **Git workflows** in collaborative projects
-- Understanding **microservices** and distributed systems basics
-- Strengthening **backend architecture** thinking
+- Understanding **microservices** and distributed systems
+- Improving **backend architecture** and problem-solving skills
 
 ---
 
 ## 🧠 Core Strengths
 
-- Full-stack web development mindset
+- Full-stack development mindset
 - Backend-oriented problem solving
 - Practical database design
 - API development and integration
-- Continuous learning and self-improvement
-- Clear coding structure and maintainability
+- Clean code and maintainable structure
 - Team collaboration with Git/GitHub
+- Continuous learning and self-improvement
 
 ---
 
@@ -154,15 +154,15 @@ I am continuously improving my knowledge and hands-on experience in:
 
 ## 🎯 Career Goal
 
-My goal is to become a professional **Software Engineer** capable of building scalable, reliable, and high-quality software products.
+My goal is to become a professional **Software Engineer** who can build **scalable**, **reliable**, and **high-quality software products**.
 
 I am especially interested in opportunities related to:
 
-- **Full-stack Web Development**
-- **Backend Engineering**
-- **System Architecture**
-- **Microservices**
-- **DevOps-oriented development**
+- Full-stack Web Development
+- Backend Engineering
+- System Architecture
+- Microservices
+- DevOps-oriented Development
 
 ---
 
