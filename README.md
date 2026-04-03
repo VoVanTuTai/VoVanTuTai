@@ -1,190 +1,221 @@
-<h1 align="center">Hi 👋, I'm Võ Văn Tú Tài</h1>
-<h3 align="center">Information Systems Student | Full-stack Developer | Backend-focused Builder</h3>
+<h1 align="center">Võ Văn Tú Tài</h1>
+<p align="center">
+  <strong>Information Systems Student • Full-stack Developer • Backend-focused Engineer</strong>
+</p>
 
 <p align="center">
-  <img src="https://readme-svg-typing-generator.vercel.app/api/svg?lines=Full-stack+Developer;Backend-focused+Builder;Node.js+%7C+React+%7C+PHP;MySQL+%7C+PostgreSQL+%7C+MongoDB;Learning+Microservices+%26+DevOps&width=750&height=90" alt="Typing SVG" />
+  I build practical web applications, scalable backend systems, and maintainable software products.
 </p>
 
 <p align="center">
   <a href="https://github.com/vovantutai">
-    <img src="https://img.shields.io/github/followers/vovantutai?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/vovantutai">
-    <img src="https://img.shields.io/github/stars/vovantutai?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=vovantutai&label=Profile%20Views&style=for-the-badge" />
-</p>
-
----
-
-## 🚀 About Me
-
-I am an **Information Systems student** at **Industrial University of Ho Chi Minh City (IUH)** with a strong passion for building **modern web applications**, designing **efficient backend systems**, and learning how to create **scalable, maintainable software**.
-
-My main focus is **full-stack development**, while continuously improving my skills in **backend engineering**, **microservices**, and **DevOps practices**. I enjoy transforming ideas into real products through clean architecture, practical workflows, and continuous learning.
-
-- 🎓 **Major:** Information Systems
-- 🔭 **Currently working on:**  
-  - Tourist Accommodation Management System  
-  - Cab Booking System
-- 🌱 **Currently learning:**  
-  - Microservices Architecture  
-  - Docker & DevOps  
-  - Linux / Nginx / Kubernetes
-- 💡 **Interested in:**  
-  - Backend Development  
-  - System Design  
-  - Scalable Web Applications
-- 🤝 **Open to collaborate on:**  
-  - Node.js Projects  
-  - React Applications  
-  - Open Source Contributions
-- 💬 **Ask me about:**  
-  - Web Development  
-  - REST API Development  
-  - MySQL / PostgreSQL / MongoDB  
-  - Git & GitHub Workflows
-
----
-
-## 🛠 Tech Stack
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,redis,kafka,rabbitmq" />
-</p>
-
-### 🧰 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
-</p>
-
-### 🌱 Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,nginx,kubernetes" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🏨 Tourist Accommodation Management System
-A full-stack application designed to support accommodation operations such as room management, customer handling, booking workflows, and service coordination.
-
-**Key Highlights**
-- Designed for practical accommodation management scenarios
-- Focused on maintainable backend logic and efficient database structure
-- Built with a full-stack approach for real-world usability
-
-**Tech Stack:** `Node.js` `Express.js` `React` `MySQL`  
-**Repository:** [View Project](https://github.com/your-username/your-repo)
-
----
-
-### 🚕 Cab Booking System
-A booking platform that simulates real-world transportation workflows, with an emphasis on modular architecture, scalability, and service-oriented design.
-
-**Key Highlights**
-- Explores scalable backend design concepts
-- Applies microservices-oriented thinking
-- Structured for future feature expansion and maintainability
-
-**Tech Stack:** `Node.js` `React` `Microservices`  
-**Repository:** [View Project](https://github.com/your-username/your-repo)
-
----
-
-### ✅ Task Management System
-A web-based system for managing tasks, tracking progress, and improving productivity for both personal and team-based workflows.
-
-**Key Highlights**
-- Provides clear task organization and workflow visibility
-- Supports progress tracking in a simple, practical interface
-- Built with usability and maintainability in mind
-
-**Tech Stack:** `Node.js` `React`  
-**Repository:** [View Project](https://github.com/your-username/your-repo)
-
----
-
-## 📈 What I'm Improving
-
-I am continuously strengthening my skills in:
-
-- Building clean and reusable **React** interfaces
-- Developing robust and maintainable **RESTful APIs**
-- Designing efficient **database schemas**
-- Working with both **SQL** and **NoSQL** databases
-- Using **Docker** for development and deployment
-- Applying **Git workflows** in collaborative projects
-- Understanding **microservices** and distributed systems
-- Improving **backend architecture** and problem-solving skills
-
----
-
-## 🧠 Core Strengths
-
-- Full-stack development mindset
-- Backend-oriented problem solving
-- Practical database design
-- API development and integration
-- Clean code and maintainable structure
-- Team collaboration with Git/GitHub
-- Continuous learning and self-improvement
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vovantutai&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovantutai&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vovantutai&theme=radical" />
-</p>
-
----
-
-## 🎯 Career Goal
-
-My goal is to become a professional **Software Engineer** who can build **scalable**, **reliable**, and **high-quality software products**.
-
-I am especially interested in opportunities related to:
-
-- Full-stack Web Development
-- Backend Engineering
-- System Architecture
-- Microservices
-- DevOps-oriented Development
-
----
-
-## 🌍 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/your-facebook" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <sub>Node.js • React • PHP • MySQL • PostgreSQL • MongoDB • Microservices • DevOps</sub>
 </p>
 
 ---
 
-## ✨ Motto
+## About
 
-> Keep learning, keep building, and turn ideas into real products.
+I’m an **Information Systems student** at **Industrial University of Ho Chi Minh City (IUH)** with a strong focus on building **modern web applications**, **backend systems**, and **scalable software**.
+
+My development approach is centered around **clean architecture**, **practical product thinking**, and **maintainable backend design**. While I work across the full stack, my long-term direction is clearly toward **backend engineering**, **system design**, and **service-oriented architecture**.
+
+---
+
+## Core Profile
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Focus
+- Full-stack Development
+- Backend Engineering
+- REST API Development
+- Database Design
+- Scalable Application Architecture
+
+### Currently Building
+- Tourist Accommodation Management System
+- Cab Booking System
+
+    </td>
+    <td width="50%" valign="top">
+
+### Currently Learning
+- Microservices Architecture
+- Docker & DevOps Practices
+- Linux / Nginx / Kubernetes
+- Scalable Backend Design
+
+### Open To
+- Node.js Projects
+- React Applications
+- Open Source Collaboration
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,mysql,postgres,mongodb,redis,docker,git,github,postman,vscode,linux,nginx,kubernetes,kafka,rabbitmq" />
+</p>
+
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>HTML, CSS, JavaScript, React</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js, Express.js, PHP</td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>MySQL, PostgreSQL, MongoDB, Redis</td>
+  </tr>
+  <tr>
+    <td><strong>Messaging</strong></td>
+    <td>Kafka, RabbitMQ</td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & Tools</strong></td>
+    <td>Docker, Git, GitHub, Postman, VS Code, Linux, Nginx, Kubernetes</td>
+  </tr>
+</table>
+
+---
+
+## Selected Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏨 Tourist Accommodation Management System</h3>
+      <p>
+        A full-stack application designed to support accommodation operations including room management, booking workflows, customer handling, and service coordination.
+      </p>
+      <p><strong>Highlights</strong></p>
+      <ul>
+        <li>Structured for practical business workflows</li>
+        <li>Focused on maintainable backend logic</li>
+        <li>Built with full-stack usability in mind</li>
+      </ul>
+      <p><strong>Stack:</strong> Node.js, Express.js, React, MySQL</p>
+      <p><a href="https://github.com/your-username/your-repo">View Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🚕 Cab Booking System</h3>
+      <p>
+        A transportation booking platform that explores modular architecture, service-oriented design, and scalable backend thinking.
+      </p>
+      <p><strong>Highlights</strong></p>
+      <ul>
+        <li>Designed with scalability in mind</li>
+        <li>Applies microservices-oriented thinking</li>
+        <li>Structured for future expansion</li>
+      </ul>
+      <p><strong>Stack:</strong> Node.js, React, Microservices</p>
+      <p><a href="https://github.com/your-username/your-repo">View Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>✅ Task Management System</h3>
+      <p>
+        A web-based productivity system for organizing tasks, tracking progress, and improving workflow visibility across personal or team use cases.
+      </p>
+      <p><strong>Highlights</strong></p>
+      <ul>
+        <li>Clear task organization and workflow tracking</li>
+        <li>Built with usability and maintainability in mind</li>
+        <li>Simple but practical product structure</li>
+      </ul>
+      <p><strong>Stack:</strong> Node.js, React</p>
+      <p><a href="https://github.com/your-username/your-repo">View Repository</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Engineering Direction
+
+I’m currently strengthening my skills in:
+
+- Designing clean and maintainable **backend systems**
+- Building robust **RESTful APIs**
+- Structuring efficient **SQL and NoSQL databases**
+- Applying **Docker** in development workflows
+- Understanding **microservices** and distributed system fundamentals
+- Improving overall **software architecture thinking**
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vovantutai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovantutai&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vovantutai&theme=tokyonight&hide_border=true&background=FFFFFF00" />
+</p>
+
+---
+
+## Career Goal
+
+My goal is to grow into a **Software Engineer** capable of building **reliable**, **scalable**, and **high-quality software systems**.
+
+I’m especially interested in:
+
+- Backend Engineering
+- Full-stack Product Development
+- System Architecture
+- Microservices
+- DevOps-oriented Engineering
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/vovantutai">
+    <img src="https://img.shields.io/badge/GitHub-vovantutai-0d1117?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-your--linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contact-0d1117?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-visit-0d1117?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Turn ideas into real products.</i>
+</p>
