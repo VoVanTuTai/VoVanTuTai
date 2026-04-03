@@ -36,37 +36,23 @@ My development approach is centered around **clean architecture**, **practical p
 
 ---
 
-## Core Profile
+## Professional Snapshot
 
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### Focus
-- Full-stack Development
-- Backend Engineering
-- REST API Development
-- Database Design
-- Scalable Application Architecture
-
-### Currently Building
-- Tourist Accommodation Management System
-- Cab Booking System
-
+      <strong>Engineering Focus</strong><br>
+      Backend Engineering • Full-stack Product Development • REST API Design • Database Architecture • Scalable Application Design
+      <br><br>
+      <strong>Current Work</strong><br>
+      Tourist Accommodation Management System • Cab Booking System
     </td>
     <td width="50%" valign="top">
-
-### Currently Learning
-- Microservices Architecture
-- Docker & DevOps Practices
-- Linux / Nginx / Kubernetes
-- Scalable Backend Design
-
-### Open To
-- Node.js Projects
-- React Applications
-- Open Source Collaboration
-
+      <strong>Growth Areas</strong><br>
+      Microservices Architecture • Docker &amp; DevOps • Linux / Nginx / Kubernetes • Scalable Backend Systems
+      <br><br>
+      <strong>Collaboration</strong><br>
+      Node.js Projects • React Applications • Open Source Contributions
     </td>
   </tr>
 </table>
@@ -75,34 +61,40 @@ My development approach is centered around **clean architecture**, **practical p
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,mysql,postgres,mongodb,redis,docker,git,github,postman,vscode,linux,nginx,kubernetes,kafka,rabbitmq" />
-</p>
-
 <table>
   <tr>
     <th align="left">Category</th>
     <th align="left">Technologies</th>
   </tr>
   <tr>
-    <td><strong>Frontend</strong></td>
-    <td>HTML, CSS, JavaScript, React</td>
+    <td width="180"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" />
+    </td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td>Node.js, Express.js, PHP</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,php&perline=3" />
+    </td>
   </tr>
   <tr>
     <td><strong>Database</strong></td>
-    <td>MySQL, PostgreSQL, MongoDB, Redis</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=4" />
+    </td>
   </tr>
   <tr>
     <td><strong>Messaging</strong></td>
-    <td>Kafka, RabbitMQ</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=kafka,rabbitmq&perline=2" />
+    </td>
   </tr>
   <tr>
     <td><strong>DevOps & Tools</strong></td>
-    <td>Docker, Git, GitHub, Postman, VS Code, Linux, Nginx, Kubernetes</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux,nginx,kubernetes&perline=8" />
+    </td>
   </tr>
 </table>
 
@@ -172,15 +164,8 @@ I’m currently strengthening my skills in:
 
 ---
 
-## GitHub Analytics
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vovantutai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovantutai&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vovantutai&theme=tokyonight&hide_border=true&background=FFFFFF00" />
+  <img height="165" src="https://streak-stats.demolab.com?user=vovantutai&theme=tokyonight&hide_border=true&background=0d1117&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" />
 </p>
 
 ---
