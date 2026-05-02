@@ -75,7 +75,7 @@ Managing infrastructure for high availability — **Docker**, Docker Swarm, serv
 </tr>
 </table>
 
----
+
 
 ## ◈ Tech Stack
 
@@ -216,7 +216,7 @@ Managing infrastructure for high availability — **Docker**, Docker Swarm, serv
 <div align="center">
   <img src="https://raw.githubusercontent.com/vovantutai/vovantutai/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
----
+
 
 ## ◈ Engineering Direction
 
