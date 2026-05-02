@@ -1,206 +1,244 @@
-<h1 align="center">Võ Văn Tú Tài</h1>
-<p align="center">
-  <strong>Information Systems Student • Full-stack Developer • Backend-focused Engineer</strong>
-</p>
+<!-- ANIMATED HEADER BANNER -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B27,100:0D1117&height=200&section=header&text=Võ%20Văn%20Tú%20Tài&fontSize=52&fontColor=6E85B7&fontAlignY=38&desc=Information%20Systems%20%C2%B7%20System%20Analyst%20%C2%B7%20Full-stack%20Engineer%20%C2%B7%20DevOps&descAlignY=60&descSize=15&descColor=8892A4&animation=fadeIn" />
+</div>
 
-<p align="center">
-  I build practical web applications, scalable backend systems, and maintainable software products.
-</p>
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=6E85B7&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Bridging+business+requirements+%E2%86%92+technical+execution;BPMN+%C2%B7+Microservices+%C2%B7+Docker+Swarm+%C2%B7+React+%C2%B7+Node.js;Keep+learning.+Keep+building.+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/vovantutai">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <sub>Node.js • React • PHP • MySQL • PostgreSQL • MongoDB • Microservices • DevOps</sub>
-</p>
+<!-- SOCIAL BADGES -->
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/vovantutai?style=flat-square&logo=github&logoColor=white&labelColor=161B27&color=6E85B7&label=Follow)](https://github.com/vovantutai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-161B27?style=flat-square&logo=linkedin&logoColor=6E85B7)](https://www.linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-Contact-161B27?style=flat-square&logo=gmail&logoColor=6E85B7)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-161B27?style=flat-square&logo=vercel&logoColor=6E85B7)](https://your-portfolio.com)
+![Profile views](https://komarev.com/ghpvc/?username=vovantutai&style=flat-square&color=161B27&label=Profile+Views)
+
+</div>
+
+
+## ◈ About Me
+
+```yaml
+# vovantutai.config.yml
+profile:
+  name        : "Võ Văn Tú Tài"
+  university  : "Industrial University of Ho Chi Minh City (IUH)"
+  major       : "Information Systems"
+  location    : "Ho Chi Minh City, Vietnam 🇻🇳"
+
+roles:
+  - "📊 System Analyst (BA/SA)"
+  - "💻 Full-stack Engineer"
+  - "⚙️ DevOps Enthusiast"
+
+philosophy:
+  BA_SA   : "Practical product thinking → BPMN, user flow, business logic"
+  backend : "Clean architecture → Microservices, RESTful API, Saga pattern"
+  devops  : "Reliable infrastructure → Docker Swarm, high-availability systems"
+
+status      : "✅ Open to internship & collaboration"
+```
 
 ---
 
-## About
-
-I’m an **Information Systems student** at **Industrial University of Ho Chi Minh City (IUH)** with a strong focus on building **modern web applications**, **backend systems**, and **scalable software**.
-
-My development approach is centered around **clean architecture**, **practical product thinking**, and **maintainable backend design**. While I work across the full stack, my long-term direction is clearly toward **backend engineering**, **system design**, and **service-oriented architecture**.
-
----
-
-## Professional Snapshot
+## ◈ Core Competencies
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Engineering Focus</strong><br>
-      Backend Engineering • Full-stack Product Development • REST API Design • Database Architecture • Scalable Application Design
-      <br><br>
-      <strong>Current Work</strong><br>
-      Tourist Accommodation Management System • Cab Booking System
-    </td>
-    <td width="50%" valign="top">
-      <strong>Growth Areas</strong><br>
-      Microservices Architecture • Docker &amp; DevOps • Linux / Nginx / Kubernetes • Scalable Backend Systems
-      <br><br>
-      <strong>Collaboration</strong><br>
-      Node.js Projects • React Applications • Open Source Contributions
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 📊 Business & System Analysis
+
+Translating complex business rules into clear technical specs. I design intuitive user flows and model processes using **BPMN** to eliminate real-world operational bottlenecks.
+
+</td>
+<td width="33%" valign="top">
+
+### 💻 Software Engineering
+
+Building robust full-stack apps. Transitioning from Monolith to **Microservices**, RESTful APIs, Saga pattern for data consistency, modern UI/UX.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ Systems Operations
+
+Managing infrastructure for high availability — **Docker**, Docker Swarm, server optimization, and professional Git workflows in team environments.
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Tech Stack
+## ◈ Tech Stack
 
-<table>
-  <tr>
-    <th align="left">Category</th>
-    <th align="left">Technologies</th>
-  </tr>
-  <tr>
-    <td width="180"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,php&perline=3" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Database</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=4" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Messaging</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=kafka,rabbitmq&perline=2" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>DevOps & Tools</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,linux,nginx,kubernetes&perline=8" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+**Frontend & Design**
 
-## Selected Projects
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🏨 Tourist Accommodation Management System</h3>
-      <p>
-        A full-stack application designed to support accommodation operations including room management, booking workflows, customer handling, and service coordination.
-      </p>
-      <p><strong>Highlights</strong></p>
-      <ul>
-        <li>Structured for practical business workflows</li>
-        <li>Focused on maintainable backend logic</li>
-        <li>Built with full-stack usability in mind</li>
-      </ul>
-      <p><strong>Stack:</strong> Node.js, Express.js, React, MySQL</p>
-      <p><a href="https://github.com/your-username/your-repo">View Repository</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🚕 Cab Booking System</h3>
-      <p>
-        A transportation booking platform that explores modular architecture, service-oriented design, and scalable backend thinking.
-      </p>
-      <p><strong>Highlights</strong></p>
-      <ul>
-        <li>Designed with scalability in mind</li>
-        <li>Applies microservices-oriented thinking</li>
-        <li>Structured for future expansion</li>
-      </ul>
-      <p><strong>Stack:</strong> Node.js, React, Microservices</p>
-      <p><a href="https://github.com/your-username/your-repo">View Repository</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>✅ Task Management System</h3>
-      <p>
-        A web-based productivity system for organizing tasks, tracking progress, and improving workflow visibility across personal or team use cases.
-      </p>
-      <p><strong>Highlights</strong></p>
-      <ul>
-        <li>Clear task organization and workflow tracking</li>
-        <li>Built with usability and maintainability in mind</li>
-        <li>Simple but practical product structure</li>
-      </ul>
-      <p><strong>Stack:</strong> Node.js, React</p>
-      <p><a href="https://github.com/your-username/your-repo">View Repository</a></p>
-    </td>
-  </tr>
-</table>
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Messaging & Architecture**
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-## Engineering Direction
+## ◈ Selected Projects
 
-I’m currently strengthening my skills in:
+<details>
+<summary><b>📦 NXS — Logistics & Cab Booking System</b></summary>
+<br/>
 
-- Designing clean and maintainable **backend systems**
-- Building robust **RESTful APIs**
-- Structuring efficient **SQL and NoSQL databases**
-- Applying **Docker** in development workflows
-- Understanding **microservices** and distributed system fundamentals
-- Improving overall **software architecture thinking**
+> A comprehensive logistics and transportation platform handling intricate delivery networks and high-volume state changes.
+
+| Pillar | Detail |
+|--------|--------|
+| 📊 **Analysis** | Designed complex BPMN workflows covering real-world edge cases — mis-scans, tracking anomalies at routing hubs |
+| 💻 **Engineering** | Scalable microservice backend processing high-volume state changes reliably |
+| ⚙️ **Operations** | Containerized environments for consistent, reproducible deployments |
+
+**Stack:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-7faaff?style=flat-square&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🏨 Tourist Accommodation Management System</b></summary>
+<br/>
+
+> Full-stack hotel operations system — reservations, customer evaluation, and secure online payments.
+
+| Pillar | Detail |
+|--------|--------|
+| 📊 **Analysis** | Mapped end-to-end customer booking journeys to minimize friction at every touchpoint |
+| 💻 **Engineering** | VNPay integration for secure transactions + responsive UI |
+| ⚙️ **Operations** | Clean Git branching strategy for safe, incremental feature rollouts |
+
+**Stack:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>👤 Smart Attendance System</b></summary>
+<br/>
+
+> Attendance solution using facial recognition and internal WiFi validation for rapid, frictionless check-ins.
+
+| Pillar | Detail |
+|--------|--------|
+| 📊 **Analysis** | Optimized practical user flow and physical execution process for frictionless check-ins |
+| 💻 **Engineering** | Backend validating credentials against local network constraints in real time |
+
+**Stack:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</details>
 
 ---
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=vovantutai&theme=tokyonight&hide_border=true&background=0d1117&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" />
-</p>
+## ◈ GitHub Activity
+
+<!-- STATS + TOP LANGS -->
+<div align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vovantutai&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vovantutai&theme=github_dark" />
+  &nbsp;
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vovantutai&theme=github_dark" />
+  &nbsp;
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vovantutai&theme=github_dark" />
+</div>
+
+<br/>
+
+<!-- STREAK -->
+<div align="center">
+  <img width="68%" src="https://streak-stats.demolab.com?user=vovantutai&theme=tokyonight&hide_border=true&background=0d1117&ring=7faaff&fire=5de8b8&currStreakLabel=7faaff&sideNums=7faaff&dates=8b949e&sideLabels=8b949e&stroke=0d1117" />
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vovantutai&bg_color=0d1117&color=7faaff&line=5de8b8&point=7faaff&area=true&area_color=7faaff&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+</div>
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vovantutai/vovantutai/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</div>
+---
+
+## ◈ Engineering Direction
+
+```
+ CURRENT LEARNING PATH ─────────────────────────────────────────────────────
+
+  Microservices & API Gateway     ████████████░░░░  75%   clean architecture
+  Docker Swarm / Orchestration    ██████████░░░░░░  65%   distributed systems
+  Data Consistency Patterns       █████████░░░░░░░  60%   saga · outbox · CQRS
+  Solution Architecture           ████████░░░░░░░░  55%   full SDLC ownership
+
+ LONG-TERM GOAL ─────────────────────────────────────────────────────────────
+
+  [ Student ] ──► [ Software Engineer ] ──► [ Solution Architect ]
+                                              ↳ writes excellent code
+                                              ↳ understands business value
+                                              ↳ owns the full SDLC
+```
 
 ---
 
-## Career Goal
-
-My goal is to grow into a **Software Engineer** capable of building **reliable**, **scalable**, and **high-quality software systems**.
-
-I’m especially interested in:
-
-- Backend Engineering
-- Full-stack Product Development
-- System Architecture
-- Microservices
-- DevOps-oriented Engineering
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/vovantutai">
-    <img src="https://img.shields.io/badge/GitHub-vovantutai-0d1117?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-your--linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-0d1117?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-visit-0d1117?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Keep learning. Keep building. Turn ideas into real products.</i>
-</p>
+<!-- ANIMATED FOOTER -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B27,100:0D1117&height=120&section=footer&text=Keep%20learning.%20Keep%20building.&fontSize=18&fontColor=8892A4&fontAlignY=65&animation=fadeIn" />
+</div>
