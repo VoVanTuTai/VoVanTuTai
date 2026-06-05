@@ -31,6 +31,13 @@ I build backend-focused web systems with Node.js, TypeScript, NestJS, Express.js
 | Practicing | Microservices, RabbitMQ, Apache Kafka, Redis, MinIO, Docker, Docker Compose, Nginx |
 | Tools & Practices | Git, Postman, OpenAPI, BPMN, ERD, API Design, Database Design |
 
+## GitHub Activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VoVanTuTai&show_icons=true&hide_border=true&rank_icon=github" alt="Vo Van Tu Tai GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoVanTuTai&layout=compact&hide_border=true&langs_count=8" alt="Vo Van Tu Tai top languages" />
+</p>
+
 ## Selected Projects
 
 ### [Cab Booking System](https://github.com/truong-devops/cab-booking-system)
