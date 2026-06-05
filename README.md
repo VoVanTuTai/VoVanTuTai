@@ -33,12 +33,9 @@ I build backend-focused web systems with Node.js, TypeScript, NestJS, Express.js
 
 ## GitHub Activity
 
-<p>
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VoVanTuTai&theme=github" alt="Vo Van Tu Tai GitHub contribution summary" />
-</p>
-
-<p>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VoVanTuTai&theme=github" alt="Vo Van Tu Tai repositories by language" />
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VoVanTuTai&theme=github" alt="Vo Van Tu Tai GitHub contribution summary" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VoVanTuTai&theme=github" alt="Vo Van Tu Tai repositories by language" />
 </p>
 
 ## Selected Projects
