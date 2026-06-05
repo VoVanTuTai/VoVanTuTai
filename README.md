@@ -68,7 +68,7 @@ Highlights:
 - Built dispatch and scan workflows with task assignment, current-location tracking, and operational reports.
 - Created OpenAPI contracts, RabbitMQ event payloads, and Docker Compose infrastructure.
 
-### [Tourist Accommodation Management System](https://github.com/VoVanTuTai/Tourist_Accommodation_Management_System_ThieuNu)
+### [Tourist Accommodation Management System](https://github.com/VoVanTuTai/tourist-accommodation-management-system)
 
 A booking and accommodation management system for customers, providers, and administrators.
 
@@ -79,7 +79,7 @@ Highlights:
 - Built booking flows, room/provider management, customer accounts, admin dashboards, and commission reports.
 - Integrated VNPay, QR payment pages, and PDF/Excel export for reporting workflows.
 
-### [E-commerce Microservices System](https://github.com/VoVanTuTai/22655911-VoVanTuTai_EProject)
+### [E-commerce Microservices System](https://github.com/VoVanTuTai/ecommerce-microservices-system)
 
 An e-commerce microservices system with Auth, Product, and Order services behind an API Gateway.
 
