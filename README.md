@@ -39,6 +39,8 @@ A microservices-based ride-hailing platform with customer, driver, and admin app
 
 **Tech stack:** Node.js, Express.js, Go Gateway, React Native/Expo, React/Vite, PostgreSQL, MongoDB, Redis, Apache Kafka, Docker Compose
 
+**Proof:** [OpenAPI](https://github.com/truong-devops/cab-booking-system/tree/main/contracts/openapi) | [Event schemas](https://github.com/truong-devops/cab-booking-system/tree/main/contracts/events) | [Docker infrastructure](https://github.com/truong-devops/cab-booking-system/blob/main/infra/docker-compose.dev.yml)
+
 Highlights:
 
 - Built booking, ride lifecycle, driver, pricing, payment, notification, review, and admin workflows.
@@ -50,6 +52,8 @@ Highlights:
 A logistics management platform for shipment, pickup, hub operations, courier delivery, tracking, COD, and reporting.
 
 **Tech stack:** TypeScript, NestJS, React/Vite, PostgreSQL, Prisma, RabbitMQ, Docker, Redis, MinIO
+
+**Proof:** [Service docs](https://github.com/VoVanTuTai/logistics-management-system/tree/main/services) | [Integration docs](https://github.com/VoVanTuTai/logistics-management-system/blob/main/docs/service-description/marketplace-order-integration-api.md) | [Docker infrastructure](https://github.com/VoVanTuTai/logistics-management-system/tree/main/infra/dev)
 
 Highlights:
 
