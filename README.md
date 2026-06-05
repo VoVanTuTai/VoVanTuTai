@@ -33,10 +33,7 @@ I build backend-focused web systems with Node.js, TypeScript, NestJS, Express.js
 
 ## GitHub Activity
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VoVanTuTai&show_icons=true&hide_border=true&rank_icon=github" alt="Vo Van Tu Tai GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoVanTuTai&layout=compact&hide_border=true&langs_count=8" alt="Vo Van Tu Tai top languages" />
-</p>
+See my recent work through [GitHub contributions](https://github.com/VoVanTuTai?tab=overview) and [repositories](https://github.com/VoVanTuTai?tab=repositories).
 
 ## Selected Projects
 
