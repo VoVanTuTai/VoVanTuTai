@@ -2,7 +2,7 @@
 
 Information Systems student at Industrial University of Ho Chi Minh City (IUH), aiming for Backend Engineer / Full-stack Developer roles.
 
-I build web systems with Node.js, TypeScript, NestJS, Express.js, PostgreSQL, RabbitMQ, and Docker. My current focus is turning real business workflows into maintainable backend services, API contracts, event-driven communication, and deployment-ready infrastructure.
+I build backend-focused web systems with Node.js, TypeScript, NestJS, Express.js, PostgreSQL, RabbitMQ, Kafka, and Docker. I enjoy turning business workflows into clear APIs, reliable services, and practical software architecture.
 
 ## Contact
 
@@ -15,14 +15,12 @@ I build web systems with Node.js, TypeScript, NestJS, Express.js, PostgreSQL, Ra
 
 - Backend Engineer Intern / Fresher roles
 - Full-stack Web Developer roles
-- Projects involving APIs, business workflows, microservices, logistics, booking, or payment systems
 
 ## Current Focus
 
 - Backend development with Node.js, TypeScript, NestJS, Express.js, and REST APIs
-- Microservices architecture with Gateway/BFF, database-per-service, RabbitMQ events, and Docker
-- Business and system analysis: BPMN, user flows, ERD, API design, and database design
-- Logistics and operations domains: shipment lifecycle, pickup, dispatch, scan, tracking, COD, and reporting
+- Microservices, API Gateway/BFF, event-driven workflows, and Docker-based local infrastructure
+- Business/system analysis with BPMN, user flows, ERD, API design, and database design
 
 ## Technical Skills
 
@@ -35,31 +33,29 @@ I build web systems with Node.js, TypeScript, NestJS, Express.js, PostgreSQL, Ra
 
 ## Selected Projects
 
-### [Cab Booking System - Collaboration Project](https://github.com/truong-devops/cab-booking-system)
+### [Cab Booking System](https://github.com/truong-devops/cab-booking-system)
 
-A microservices-based ride-hailing platform with customer, driver, and admin applications, event-driven workflows, service-owned databases, and local observability infrastructure.
+A microservices-based ride-hailing platform with customer, driver, and admin applications.
 
 **Tech stack:** Node.js, Express.js, Go Gateway, React Native/Expo, React/Vite, PostgreSQL, MongoDB, Redis, Apache Kafka, Docker Compose
 
 Highlights:
 
-- Collaborated on a monorepo system covering booking, ride lifecycle, driver management, pricing, payment, notification, review, and admin operations.
-- Worked with REST APIs, Kafka-based asynchronous workflows, database-per-service ownership, and contract-first integration using OpenAPI and event schemas.
-- Supported customer/driver application flows, payment-related features, service integration, and end-to-end testing workflows.
-- Used Docker Compose infrastructure for local development with PostgreSQL, MongoDB, Redis, Kafka, and observability tools.
+- Built booking, ride lifecycle, driver, pricing, payment, notification, review, and admin workflows.
+- Worked with REST APIs, Kafka events, database-per-service ownership, OpenAPI contracts, and event schemas.
+- Used Docker Compose infrastructure with PostgreSQL, MongoDB, Redis, Kafka, and observability tools.
 
 ### [Nexus Express System](https://github.com/VoVanTuTai/logistics-management-system)
 
-A logistics management platform for shipment creation, pickup, hub operations, courier delivery, public tracking, COD settlement, and operational reporting.
+A logistics management platform for shipment, pickup, hub operations, courier delivery, tracking, COD, and reporting.
 
 **Tech stack:** TypeScript, NestJS, React/Vite, PostgreSQL, Prisma, RabbitMQ, Docker, Redis, MinIO
 
 Highlights:
 
 - Designed service boundaries for shipment, pickup, dispatch, tracking, payment, and reporting modules.
-- Built logistics workflows for shipment lifecycle, pickup, dispatch, manifest, scan, delivery, public tracking, COD, and operational reports.
-- Created OpenAPI contracts and RabbitMQ event payload examples for service communication.
-- Implemented dispatch and scan modules with task assignment, current-location tracking, outbox/idempotency flows, and local Docker Compose infrastructure.
+- Built dispatch and scan workflows with task assignment, current-location tracking, and operational reports.
+- Created OpenAPI contracts, RabbitMQ event payloads, and Docker Compose infrastructure.
 
 ### [Tourist Accommodation Management System](https://github.com/VoVanTuTai/Tourist_Accommodation_Management_System_ThieuNu)
 
@@ -70,8 +66,7 @@ A booking and accommodation management system for customers, providers, and admi
 Highlights:
 
 - Built booking flows, room/provider management, customer accounts, admin dashboards, and commission reports.
-- Integrated VNPay payment routes and QR payment pages.
-- Implemented PDF and Excel export for commission/reporting workflows.
+- Integrated VNPay, QR payment pages, and PDF/Excel export for reporting workflows.
 
 ### [E-commerce Microservices System](https://github.com/VoVanTuTai/22655911-VoVanTuTai_EProject)
 
@@ -82,16 +77,10 @@ An e-commerce microservices system with Auth, Product, and Order services behind
 Highlights:
 
 - Built separate Auth, Product, and Order services with independent MongoDB databases.
-- Used RabbitMQ pub/sub for asynchronous communication between Product and Order services.
-- Added API Gateway routing, JWT authentication, Docker Compose setup, health checks, and Mocha tests.
+- Added API Gateway routing, JWT authentication, RabbitMQ pub/sub, Docker Compose, health checks, and Mocha tests.
 
 ## Engineering Direction
 
-I am currently strengthening my skills in:
-
-- Microservices and service-oriented architecture
-- Event-driven architecture, outbox pattern, idempotency, and API Gateway design
-- Clean backend structure, reliable database ownership, and production-minded deployment
-- Business analysis skills that help turn real workflows into clear technical systems
+I am strengthening my backend engineering foundation through microservices, event-driven architecture, clean service boundaries, database ownership, and production-minded deployment.
 
 Long-term, I want to grow from Software Engineer into Solution Architect: someone who writes reliable code, understands business value, and can own system design across the full SDLC.
