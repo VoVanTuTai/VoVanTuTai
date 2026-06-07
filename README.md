@@ -27,7 +27,7 @@ I build backend-focused web systems with Node.js, TypeScript, NestJS, Express.js
 | Area | Technologies |
 | --- | --- |
 | Strongest | TypeScript, JavaScript, Node.js, NestJS, Express.js, REST APIs, PostgreSQL |
-| Experienced With | React, React Native, Expo, Vite, EJS, HTML, CSS, Bootstrap, MySQL, MongoDB, Prisma, Sequelize |
+| Experienced With | React, React Native, Expo, Vite, EJS, HTML, CSS, Bootstrap, MySQL, MongoDB, Prisma |
 | Practicing | Microservices, RabbitMQ, Apache Kafka, Redis, MinIO, Docker, Docker Compose, Nginx |
 | Tools & Practices | Git, Postman, OpenAPI, BPMN, ERD, API Design, Database Design |
 
