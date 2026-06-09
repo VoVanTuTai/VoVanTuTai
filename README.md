@@ -1,97 +1,88 @@
 # Vo Van Tu Tai
 
-Information Systems student at Industrial University of Ho Chi Minh City (IUH), aiming for Backend Engineer / Full-stack Developer roles.
+Information Systems student at Industrial University of Ho Chi Minh City (IUH), currently seeking a **Web Developer Internship**.
 
-I build backend-focused web systems with Node.js, TypeScript, NestJS, Express.js, PostgreSQL, RabbitMQ, Kafka, and Docker. I enjoy turning business workflows into clear APIs, reliable services, and practical software architecture.
-
-## Contact
-
-- GitHub: [github.com/VoVanTuTai](https://github.com/VoVanTuTai)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/t%C3%BA-t%C3%A0i-v%C3%B5-v%C4%83n-2b27403b2/)
-- Email: [tutaivovan@gmail.com](mailto:tutaivovan@gmail.com)
-- Location: Ho Chi Minh City, Vietnam
+My strongest foundation is in **PHP, HTML/CSS, Bootstrap, JavaScript, and MySQL**. I have hands-on practice with basic CRUD workflows, session-based authentication, database-backed pages, and Git-based development. I have also explored Node.js, Docker, REST APIs, and backend architecture concepts through student projects.
 
 ## Open To
 
-- Backend Engineer Intern / Fresher roles
-- Full-stack Web Developer roles
+- Web Developer Intern roles
+- PHP/MySQL Web Developer Intern roles
 
 ## Current Focus
 
-- Backend development with Node.js, TypeScript, NestJS, Express.js, and REST APIs
-- Microservices, API Gateway/BFF, event-driven workflows, and Docker-based local infrastructure
-- Business/system analysis with BPMN, user flows, ERD, API design, and database design
+- Strengthening PHP/MySQL web development fundamentals
+- Writing clearer CRUD, authentication, validation, and database code
+- Improving Git workflow, Docker basics, documentation, and project presentation
+- Reviewing Node.js and backend architecture concepts through student projects
 
 ## Technical Skills
 
-| Area | Technologies |
+| Level | Technologies |
 | --- | --- |
-| Strongest | TypeScript, JavaScript, Node.js, NestJS, Express.js, REST APIs, PostgreSQL |
-| Experienced With | React, React Native, Expo, Vite, EJS, HTML, CSS, Bootstrap, MySQL, MongoDB, Prisma |
-| Practicing | Microservices, RabbitMQ, Apache Kafka, Redis, MinIO, Docker, Docker Compose, Nginx |
-| Tools & Practices | Git, Postman, OpenAPI, BPMN, ERD, API Design, Database Design |
+| Core foundation | PHP, HTML/CSS, Bootstrap, JavaScript, MySQL, SQL basics |
+| Comfortable tools | Git, GitHub, Postman, Docker Compose basics |
+| Project practice | Node.js, Express/EJS, REST API basics, React/Vite basics |
+| Exposure | TypeScript, NestJS, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka |
+| Analysis basics | ERD, database design, BPMN, OpenAPI reading |
+
+## Selected Projects
+
+### Practical Web Applications
+
+#### [php-online-store](https://github.com/VoVanTuTai/php-online-store)
+
+A learning PHP/MySQL online store with product browsing, login/register, cart, checkout, order status, basic admin screens, and article pages.
+
+- Cleaned up parts of a legacy hand-coded student project.
+- Added Docker Compose, seed data, demo accounts, screenshots, and setup documentation.
+- Practiced role checks, password hashing, prepared statements, output escaping, and safer delete handling.
+
+**Main stack:** PHP, MySQL, Bootstrap, JavaScript, jQuery, Docker Compose
+
+#### [tourist-accommodation-management-system](https://github.com/VoVanTuTai/tourist-accommodation-management-system)
+
+A student Express/EJS/MySQL booking project for practicing customer, provider, and admin workflows.
+
+- Practiced room search, booking management, session authentication, and role-based screens.
+- Explored VNPay/QR payment pages, email support, and basic PDF/Excel reports.
+
+**Main stack:** Node.js, Express.js, EJS, MySQL, Sequelize
+
+### Architecture Practice Repositories
+
+#### [logistics-management-system](https://github.com/VoVanTuTai/logistics-management-system)
+
+A logistics architecture practice repository inspired by hands-on post office operations.
+
+- Used shipment, pickup, scan, dispatch, delivery, and tracking workflows as domain examples.
+- Explored Gateway/BFF, service-boundary, Prisma, RabbitMQ, and Docker Compose concepts.
+
+**Project exposure:** TypeScript, NestJS, React/Vite, PostgreSQL, Prisma, RabbitMQ, Docker
+
+#### [cab-booking-system](https://github.com/VoVanTuTai/cab-booking-system)
+
+A ride-hailing architecture practice repository for exploring booking and ride workflows.
+
+- Studied REST/OpenAPI contracts, service-style modules, Kafka/Redis concepts, and multiple databases.
+- Used Docker Compose for local architecture and infrastructure practice.
+
+**Project exposure:** Node.js, Express.js, Kafka, Redis, PostgreSQL, MongoDB, Docker
+
+## Experience And Education
+
+- **Post Office Operations Staff, J&T Express:** 3 months of full-time shipment and branch operations experience
+- **Bachelor of Information Systems, IUH:** expected graduation in 2026, GPA 3.22/4.0
+- **Location:** Ho Chi Minh City, Vietnam
 
 ## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VoVanTuTai&theme=github" alt="Vo Van Tu Tai GitHub contribution summary" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VoVanTuTai&theme=github" alt="Vo Van Tu Tai repositories by language" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VoVanTuTai&theme=github" alt="Vo Van Tu Tai GitHub contribution summary" />
 </p>
 
-## Selected Projects
+## Contact
 
-### [Cab Booking System](https://github.com/VoVanTuTai/cab-booking-system)
-
-A microservices-based ride-hailing platform with customer, driver, and admin applications.
-
-**Tech stack:** Node.js, Express.js, Go Gateway, React Native/Expo, React/Vite, PostgreSQL, MongoDB, Redis, Apache Kafka, Docker Compose
-
-**Proof:** [OpenAPI](https://github.com/VoVanTuTai/cab-booking-system/tree/main/contracts/openapi) | [Event schemas](https://github.com/VoVanTuTai/cab-booking-system/tree/main/contracts/events) | [Docker infrastructure](https://github.com/VoVanTuTai/cab-booking-system/blob/main/infra/docker-compose.dev.yml)
-
-Highlights:
-
-- Built booking, ride lifecycle, driver, pricing, payment, notification, review, and admin workflows.
-- Worked with REST APIs, Kafka events, database-per-service ownership, OpenAPI contracts, and event schemas.
-- Used Docker Compose infrastructure with PostgreSQL, MongoDB, Redis, Kafka, and observability tools.
-
-### [Nexus Express System](https://github.com/VoVanTuTai/logistics-management-system)
-
-A logistics management platform for shipment, pickup, hub operations, courier delivery, tracking, COD, and reporting.
-
-**Tech stack:** TypeScript, NestJS, React/Vite, PostgreSQL, Prisma, RabbitMQ, Docker, Redis, MinIO
-
-**Proof:** [Service docs](https://github.com/VoVanTuTai/logistics-management-system/tree/main/services) | [Integration docs](https://github.com/VoVanTuTai/logistics-management-system/blob/main/docs/service-description/marketplace-order-integration-api.md) | [Docker infrastructure](https://github.com/VoVanTuTai/logistics-management-system/tree/main/infra/dev)
-
-Highlights:
-
-- Designed service boundaries for shipment, pickup, dispatch, tracking, payment, and reporting modules.
-- Built dispatch and scan workflows with task assignment, current-location tracking, and operational reports.
-- Created OpenAPI contracts, RabbitMQ event payloads, and Docker Compose infrastructure.
-
-### [Tourist Accommodation Management System](https://github.com/VoVanTuTai/tourist-accommodation-management-system)
-
-A booking and accommodation management system for customers, providers, and administrators.
-
-**Tech stack:** Node.js, Express.js, EJS, MySQL, Sequelize, VNPay, QR code, PDF/Excel reporting
-
-Highlights:
-
-- Built booking flows, room/provider management, customer accounts, admin dashboards, and commission reports.
-- Integrated VNPay, QR payment pages, and PDF/Excel export for reporting workflows.
-
-### [E-commerce Microservices System](https://github.com/VoVanTuTai/ecommerce-microservices-system)
-
-An e-commerce microservices system with Auth, Product, and Order services behind an API Gateway.
-
-**Tech stack:** Node.js, Express.js, MongoDB, RabbitMQ, Docker Compose, JWT, Mocha
-
-Highlights:
-
-- Built separate Auth, Product, and Order services with independent MongoDB databases.
-- Added API Gateway routing, JWT authentication, RabbitMQ pub/sub, Docker Compose, health checks, and Mocha tests.
-
-## Engineering Direction
-
-I am strengthening my backend engineering foundation through microservices, event-driven architecture, clean service boundaries, database ownership, and production-minded deployment.
-
-Long-term, I want to grow from Software Engineer into Solution Architect: someone who writes reliable code, understands business value, and can own system design across the full SDLC.
+- Portfolio repository: [github.com/VoVanTuTai/portfolio](https://github.com/VoVanTuTai/portfolio)
+- LinkedIn: [linkedin.com/in/vovantutai](https://www.linkedin.com/in/t%C3%BA-t%C3%A0i-v%C3%B5-v%C4%83n-2b27403b2/)
+- Email: [tutaivovan@gmail.com](mailto:tutaivovan@gmail.com)
