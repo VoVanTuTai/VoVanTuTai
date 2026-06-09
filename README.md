@@ -1,30 +1,30 @@
 # Vo Van Tu Tai
 
-Information Systems student at Industrial University of Ho Chi Minh City (IUH), currently seeking a **Web Developer Internship**.
+Information Systems student at Industrial University of Ho Chi Minh City (IUH), currently seeking a **Full-stack Web Developer Internship**.
 
-My strongest foundation is in **PHP, HTML/CSS, Bootstrap, JavaScript, and MySQL**. I have hands-on practice with basic CRUD workflows, session-based authentication, database-backed pages, and Git-based development. I have also explored Node.js, Docker, REST APIs, and backend architecture concepts through student projects.
+My strongest foundation is in **PHP, HTML/CSS, Bootstrap, JavaScript, and MySQL**. I build student web projects across the interface, backend, and database layers, including CRUD workflows, session-based authentication, role-based screens, and business flows. I also work with Git, Docker Compose, Express/EJS, REST APIs, and broader backend concepts through project-based practice.
 
 ## Open To
 
-- Web Developer Intern roles
-- PHP/MySQL Web Developer Intern roles
+- Full-stack Web Developer Intern roles
+- Web Developer Intern roles using PHP/MySQL or similar stacks
 
 ## Current Focus
 
-- Strengthening PHP/MySQL web development fundamentals
-- Writing clearer CRUD, authentication, validation, and database code
-- Improving Git workflow, Docker basics, documentation, and project presentation
-- Reviewing Node.js and backend architecture concepts through student projects
+- Strengthening full-stack fundamentals across frontend, backend, and databases
+- Writing clearer CRUD, authentication, validation, and business workflow code
+- Improving Git workflow, Docker Compose, documentation, and project delivery
+- Expanding Node.js, REST API, and backend architecture knowledge through projects
 
 ## Technical Skills
 
 | Level | Technologies |
 | --- | --- |
-| Core foundation | PHP, HTML/CSS, Bootstrap, JavaScript, MySQL, SQL basics |
-| Comfortable tools | Git, GitHub, Postman, Docker Compose basics |
-| Project practice | Node.js, Express/EJS, REST API basics, React/Vite basics |
+| Core stack | PHP, HTML/CSS, Bootstrap, JavaScript, MySQL, SQL |
+| Development tools | Git, GitHub, Postman, Docker Compose |
+| Working knowledge | Node.js, Express/EJS, REST APIs, React/Vite |
 | Exposure | TypeScript, NestJS, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka |
-| Analysis basics | ERD, database design, BPMN, OpenAPI reading |
+| Analysis | ERD, database design, BPMN, OpenAPI reading |
 
 ## Selected Projects
 
@@ -32,9 +32,9 @@ My strongest foundation is in **PHP, HTML/CSS, Bootstrap, JavaScript, and MySQL*
 
 #### [php-online-store](https://github.com/VoVanTuTai/php-online-store)
 
-A learning PHP/MySQL online store with product browsing, login/register, cart, checkout, order status, basic admin screens, and article pages.
+A PHP/MySQL online store developed as a student project with product browsing, login/register, cart, checkout, order status, admin screens, and article pages.
 
-- Cleaned up parts of a legacy hand-coded student project.
+- Developed the original project by hand, then cleaned up parts of the legacy codebase.
 - Added Docker Compose, seed data, demo accounts, screenshots, and setup documentation.
 - Practiced role checks, password hashing, prepared statements, output escaping, and safer delete handling.
 
@@ -42,9 +42,9 @@ A learning PHP/MySQL online store with product browsing, login/register, cart, c
 
 #### [tourist-accommodation-management-system](https://github.com/VoVanTuTai/tourist-accommodation-management-system)
 
-A student Express/EJS/MySQL booking project for practicing customer, provider, and admin workflows.
+A full-stack student booking project covering customer, provider, and admin workflows with Express/EJS/MySQL.
 
-- Practiced room search, booking management, session authentication, and role-based screens.
+- Worked on room search, booking management, session authentication, and role-based screens.
 - Explored VNPay/QR payment pages, email support, and basic PDF/Excel reports.
 
 **Main stack:** Node.js, Express.js, EJS, MySQL, Sequelize
