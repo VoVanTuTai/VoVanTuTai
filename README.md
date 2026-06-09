@@ -2,19 +2,19 @@
 
 Information Systems student at Industrial University of Ho Chi Minh City (IUH), currently seeking a **Full-stack Web Developer Internship**.
 
-My strongest foundation is in **PHP, HTML/CSS, Bootstrap, JavaScript, and MySQL**. I build student web projects across the interface, backend, and database layers, including CRUD workflows, session-based authentication, role-based screens, and business flows. I also work with Git, Docker Compose, Express/EJS, REST APIs, and broader backend concepts through project-based practice.
+My core stack is **PHP, HTML/CSS, Bootstrap, JavaScript, and MySQL**. I develop web applications across the interface, backend, and database layers, including CRUD workflows, session-based authentication, role-based screens, and business processes. I also work with Git, Docker Compose, Express/EJS, and REST APIs while expanding into broader backend architecture concepts.
 
 ## Open To
 
 - Full-stack Web Developer Intern roles
 - Web Developer Intern roles using PHP/MySQL or similar stacks
 
-## Current Focus
+## What I Bring
 
-- Strengthening full-stack fundamentals across frontend, backend, and databases
-- Writing clearer CRUD, authentication, validation, and business workflow code
-- Improving Git workflow, Docker Compose, documentation, and project delivery
-- Expanding Node.js, REST API, and backend architecture knowledge through projects
+- End-to-end web development from responsive interfaces to backend and database workflows
+- Hands-on PHP/MySQL and Express/EJS application experience
+- Practical understanding of CRUD, authentication, roles, validation, and business flows
+- Git-based workflow, Docker Compose setup, project documentation, and domain analysis
 
 ## Technical Skills
 
@@ -32,20 +32,20 @@ My strongest foundation is in **PHP, HTML/CSS, Bootstrap, JavaScript, and MySQL*
 
 #### [php-online-store](https://github.com/VoVanTuTai/php-online-store)
 
-A PHP/MySQL online store developed as a student project with product browsing, login/register, cart, checkout, order status, admin screens, and article pages.
+A PHP/MySQL online store with product browsing, login/register, cart, checkout, order status, admin screens, and article pages.
 
 - Developed the original project by hand, then cleaned up parts of the legacy codebase.
 - Added Docker Compose, seed data, demo accounts, screenshots, and setup documentation.
-- Practiced role checks, password hashing, prepared statements, output escaping, and safer delete handling.
+- Improved role checks, password hashing, prepared statements, output escaping, and delete handling.
 
 **Main stack:** PHP, MySQL, Bootstrap, JavaScript, jQuery, Docker Compose
 
 #### [tourist-accommodation-management-system](https://github.com/VoVanTuTai/tourist-accommodation-management-system)
 
-A full-stack student booking project covering customer, provider, and admin workflows with Express/EJS/MySQL.
+A full-stack booking application covering customer, provider, and admin workflows with Express/EJS/MySQL.
 
-- Worked on room search, booking management, session authentication, and role-based screens.
-- Explored VNPay/QR payment pages, email support, and basic PDF/Excel reports.
+- Developed room search, booking management, session authentication, and role-based screens.
+- Added VNPay/QR payment pages, email support, and PDF/Excel reporting.
 
 **Main stack:** Node.js, Express.js, EJS, MySQL, Sequelize
 
@@ -53,16 +53,16 @@ A full-stack student booking project covering customer, provider, and admin work
 
 #### [logistics-management-system](https://github.com/VoVanTuTai/logistics-management-system)
 
-A logistics architecture practice repository inspired by hands-on post office operations.
+A logistics architecture repository inspired by hands-on post office operations.
 
-- Used shipment, pickup, scan, dispatch, delivery, and tracking workflows as domain examples.
+- Modeled shipment, pickup, scan, dispatch, delivery, and tracking workflows from domain experience.
 - Explored Gateway/BFF, service-boundary, Prisma, RabbitMQ, and Docker Compose concepts.
 
 **Project exposure:** TypeScript, NestJS, React/Vite, PostgreSQL, Prisma, RabbitMQ, Docker
 
 #### [cab-booking-system](https://github.com/VoVanTuTai/cab-booking-system)
 
-A ride-hailing architecture practice repository for exploring booking and ride workflows.
+A ride-hailing architecture repository exploring booking and ride workflows.
 
 - Studied REST/OpenAPI contracts, service-style modules, Kafka/Redis concepts, and multiple databases.
 - Used Docker Compose for local architecture and infrastructure practice.
