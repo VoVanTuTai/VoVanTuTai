@@ -85,5 +85,5 @@ A ride-hailing architecture repository exploring booking and ride workflows.
 ## Contact
 
 - Portfolio repository: [github.com/VoVanTuTai/portfolio](https://github.com/VoVanTuTai/portfolio)
-- LinkedIn: [linkedin.com/in/vovantutai](https://www.linkedin.com/in/t%C3%BA-t%C3%A0i-v%C3%B5-v%C4%83n-2b27403b2/)
+- LinkedIn: [linkedin.com/in/vovantutai](https://linkedin.com/in/vovantutai)
 - Email: [tutaivovan@gmail.com](mailto:tutaivovan@gmail.com)
