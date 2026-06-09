@@ -2,7 +2,7 @@
 
 Information Systems student at Industrial University of Ho Chi Minh City (IUH), currently seeking a **Full-stack Web Developer Internship**.
 
-My core stack is **PHP, HTML/CSS, Bootstrap, JavaScript, and MySQL**. I develop web applications across the interface, backend, and database layers, including CRUD workflows, session-based authentication, role-based screens, and business processes. I also work with Git, Docker Compose, Express/EJS, and REST APIs while expanding into broader backend architecture concepts.
+My core stack is **PHP, HTML/CSS, Bootstrap, JavaScript, and MySQL**. I develop web applications across the interface, backend, and database layers, including CRUD workflows, session-based authentication, role-based screens, and business processes. I use Git, Postman, and Docker Compose, with working knowledge of Node.js, Express/EJS, and REST APIs plus project familiarity with React/Vite and TypeScript.
 
 ## Open To
 
@@ -22,8 +22,9 @@ My core stack is **PHP, HTML/CSS, Bootstrap, JavaScript, and MySQL**. I develop 
 | --- | --- |
 | Core stack | PHP, HTML/CSS, Bootstrap, JavaScript, MySQL, SQL |
 | Development tools | Git, GitHub, Postman, Docker Compose |
-| Working knowledge | Node.js, Express/EJS, REST APIs, React/Vite |
-| Exposure | TypeScript, NestJS, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka |
+| Working knowledge | Node.js, Express/EJS, REST APIs |
+| Project familiarity | React/Vite, TypeScript; Java coursework |
+| Project exposure | NestJS, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka, Prisma |
 | Analysis | ERD, database design, BPMN, OpenAPI reading |
 
 ## Selected Projects
@@ -56,18 +57,18 @@ A full-stack booking application covering customer, provider, and admin workflow
 A logistics architecture repository inspired by hands-on post office operations.
 
 - Modeled shipment, pickup, scan, dispatch, delivery, and tracking workflows from domain experience.
-- Explored Gateway/BFF, service-boundary, Prisma, RabbitMQ, and Docker Compose concepts.
+- Defined Gateway/BFF and service boundaries, then modeled Prisma data ownership, RabbitMQ events, and Docker Compose flows.
 
-**Project exposure:** TypeScript, NestJS, React/Vite, PostgreSQL, Prisma, RabbitMQ, Docker
+**Project stack:** TypeScript, NestJS, React/Vite, PostgreSQL, Prisma, RabbitMQ, Docker
 
 #### [cab-booking-system](https://github.com/VoVanTuTai/cab-booking-system)
 
 A ride-hailing architecture repository exploring booking and ride workflows.
 
-- Studied REST/OpenAPI contracts, service-style modules, Kafka/Redis concepts, and multiple databases.
-- Used Docker Compose for local architecture and infrastructure practice.
+- Modeled REST/OpenAPI contracts, service-style modules, Kafka/Redis workflows, and multi-database ownership.
+- Configured Docker Compose for local architecture and infrastructure practice.
 
-**Project exposure:** Node.js, Express.js, Kafka, Redis, PostgreSQL, MongoDB, Docker
+**Project stack:** Node.js, Express.js, Kafka, Redis, PostgreSQL, MongoDB, Docker
 
 ## Experience And Education
 
