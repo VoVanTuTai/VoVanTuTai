@@ -71,7 +71,7 @@ A ride-hailing architecture repository exploring booking and ride workflows.
 
 ## Experience And Education
 
-- **Post Office Operations Staff, J&T Express:** 3 months of full-time shipment and branch operations experience
+- **Post Office Operations Staff, J&T Express:** full-time, December 29, 2025 – March 31, 2026
 - **Bachelor of Information Systems, IUH:** expected graduation in 2026, GPA 3.22/4.0
 - **Location:** Ho Chi Minh City, Vietnam
 
