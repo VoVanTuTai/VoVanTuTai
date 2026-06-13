@@ -1,12 +1,10 @@
 # Vo Van Tu Tai
 
-**Backend-focused Information Systems Student | Business Workflows & Technical Analysis**
+**Backend / Full-stack Developer Intern**
 
-Information Systems student at Industrial University of Ho Chi Minh City (IUH), seeking a **Backend / Full-stack Developer Internship**. I build business systems across backend, API, database, and web layers using PHP, Node.js/TypeScript, MySQL/PostgreSQL, and Docker. My understanding of workflows, requirements, and logistics operations helps me design software around real users, rules, and edge cases.
+Information Systems student at Industrial University of Ho Chi Minh City (IUH), focused on building business systems across backend, API, database, and web layers. My project work uses PHP, Node.js/TypeScript, MySQL/PostgreSQL, REST APIs, and Docker, with a growing Java/Spring Boot foundation.
 
 [Portfolio](https://vovantutai-portfolio.vercel.app) |
-[Developer CV](https://raw.githubusercontent.com/VoVanTuTai/portfolio/feature/academic-skill-pages/public/VoVanTuTai_Backend_Fullstack_Intern_CV.pdf) |
-[Business Analyst CV](https://raw.githubusercontent.com/VoVanTuTai/portfolio/feature/academic-skill-pages/public/VoVanTuTai_Business_Analyst_Intern_CV.pdf) |
 [LinkedIn](https://linkedin.com/in/vovantutai) |
 [Email](mailto:tutaivovan@gmail.com) |
 Phone: +84 869 500 573
@@ -35,9 +33,7 @@ Phone: +84 869 500 573
 
 **Problem:** Shipment status, scan location, tracking, reporting, and COD can become ambiguous when several teams and services touch the same shipment.
 
-**Engineering work:** Organized 12 domain services behind a Gateway/BFF; modeled PostgreSQL/Prisma ownership, RabbitMQ events, OpenAPI contracts, outbox/idempotency patterns, and Docker infrastructure.
-
-**Analysis advantage:** Used first-hand J&T Express experience to define actors, shipment states, scan points, exception paths, COD flows, and source-of-truth boundaries before mapping them to services.
+**Work:** Used first-hand J&T Express experience to model shipment states, scan points, exception paths, and COD flows; then organized 12 domain services behind a Gateway/BFF with PostgreSQL/Prisma ownership, RabbitMQ events, OpenAPI contracts, outbox/idempotency patterns, and Docker infrastructure.
 
 **Stack:** TypeScript, NestJS, React/Vite, PostgreSQL, Prisma, RabbitMQ, Docker
 
@@ -45,9 +41,7 @@ Phone: +84 869 500 573
 
 **Problem:** Customer, provider, and administrator journeys share accommodation and booking data but require different permissions and business rules.
 
-**Engineering work:** Built Express/EJS/MySQL screens, session authentication, role guards, booking management, VNPay/QR pages, email support, dashboards, and PDF/Excel exports.
-
-**Analysis advantage:** Separated customer, provider, and administrator rules for availability, booking, payment, cancellation, review, moderation, and commission reporting.
+**Work:** Separated rules for the three roles, then built Express/EJS/MySQL screens, session authentication, route guards, booking management, VNPay/QR pages, email support, dashboards, and PDF/Excel exports.
 
 **Stack:** Node.js, Express.js, EJS, MySQL, Sequelize
 
@@ -55,9 +49,7 @@ Phone: +84 869 500 573
 
 **Problem:** A legacy student project was difficult to run consistently and needed clearer authorization and safer destructive operations.
 
-**Engineering work:** Added role checks, password hashing, safer output/database handling, POST-based deletion, Docker Compose, seed data, and demo documentation.
-
-**Analysis advantage:** Reviewed customer/admin permissions, checkout and order states, and control gaps before changing the legacy workflows.
+**Work:** Reviewed customer/admin permissions and order states, then added role checks, password hashing, safer output/database handling, POST-based deletion, Docker Compose, seed data, and demo documentation.
 
 **Stack:** PHP, MySQL, Bootstrap, JavaScript, Docker Compose
 
@@ -71,29 +63,25 @@ Building a project and task management system to strengthen Java backend fundame
 
 [Cab Booking System](https://github.com/VoVanTuTai/cab-booking-system) explores ride, driver, pricing, payment, notification, and review workflows using REST/event contracts, Kafka, Redis, multiple databases, reliability patterns, and Docker-based observability.
 
-## Business Analysis Advantage
+## Alternative Career Path: Technical Business Analysis
 
-Business analysis is a supporting engineering skill in my profile. I use it to reduce ambiguity before implementation and to keep code aligned with operational behavior.
+Alongside my primary software engineering direction, I am also open to **Business Analyst Intern** and **Technical Business Analyst Intern** opportunities. My Information Systems background, full-stack knowledge, and logistics operations experience support this path.
 
-| Capability | Engineering benefit |
-| --- | --- |
-| Requirements and business rules | Clarify actors, permissions, preconditions, exceptions, and acceptance-ready outcomes |
-| Process and state modeling | Make multi-step workflows and invalid transitions explicit before coding |
-| Data analysis | Define entities, validation rules, relationships, reporting needs, and source-of-truth ownership |
-| Technical analysis | Connect screens and business behavior to APIs, services, databases, and events |
-| Validation | Build happy-path and edge-case scenarios, review gaps, and trace results back to evidence |
+Relevant capabilities:
 
-**Methods and tools:** use cases, functional requirements, acceptance criteria, as-is/to-be workflows, sequence/state diagrams, ERD, BPMN/UML familiarity, Mermaid, Draw.io, Postman, SQL, OpenAPI, Jira and Figma familiarity.
+- Requirements, use cases, business rules, acceptance criteria, permissions, and exception paths
+- As-is/to-be workflows, sequence/state diagrams, ERD, and BPMN/UML familiarity
+- Data relationships, reporting requirements, API contracts, and source-of-truth analysis
+- Postman, SQL, OpenAPI, Mermaid, Draw.io, plus Jira and Figma familiarity
+- Test scenarios, gap analysis, and technical documentation for developer handoff
 
-### Analysis Evidence
+Public evidence:
 
-- [System scope and ownership](https://github.com/VoVanTuTai/logistics-management-system/blob/main/docs/PROJECT-OVERVIEW.md)
+- [Nexus Express system scope and ownership](https://github.com/VoVanTuTai/logistics-management-system/blob/main/docs/PROJECT-OVERVIEW.md)
 - [End-to-end shipment lifecycle](https://github.com/VoVanTuTai/logistics-management-system/blob/main/docs/order-lifecycle-report.md)
 - [Operations sequence diagrams](https://github.com/VoVanTuTai/logistics-management-system/blob/main/docs/ops-staff-mermaid-code.md)
-- [Merchant sequence and state diagrams](https://github.com/VoVanTuTai/logistics-management-system/blob/main/docs/merchant-mermaid-code.md)
 - [OpenAPI contracts](https://github.com/VoVanTuTai/logistics-management-system/tree/main/contracts/openapi)
 - [Operations readiness and gap analysis](https://github.com/VoVanTuTai/logistics-management-system/blob/main/docs/ops-web-production-readiness-report.md)
-- [80-scenario test and gap report](https://github.com/VoVanTuTai/logistics-management-system/blob/main/docs/Nexus-Express-Test-Case-Report-Applicable-After-Fix.docx)
 
 ## Experience And Education
 
