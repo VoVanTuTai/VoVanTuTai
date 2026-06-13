@@ -1,79 +1,79 @@
 # Vo Van Tu Tai
 
-Information Systems student at Industrial University of Ho Chi Minh City (IUH), currently seeking a **Full-stack Web Developer Internship**.
+**Backend / Full-stack Developer Intern | Technical Business Analyst Intern**
 
-My core stack is **PHP, HTML/CSS, Bootstrap, JavaScript, and MySQL**. I develop web applications across the interface, backend, and database layers, including CRUD workflows, session-based authentication, role-based screens, and business processes. I use Git, Postman, and Docker Compose, with working knowledge of Node.js, Express/EJS, and REST APIs plus project familiarity with React/Vite and TypeScript.
+Information Systems student at Industrial University of Ho Chi Minh City (IUH), building business systems across backend, web, API, and data layers. I combine software implementation with process and data analysis, strengthened by hands-on logistics operations experience at J&T Express.
 
-## Open To
-
-- Full-stack Web Developer Intern roles
-- Web Developer Intern roles using PHP/MySQL or similar stacks
+[Portfolio](https://vovantutai-portfolio.vercel.app) |
+[Developer CV](https://vovantutai-portfolio.vercel.app/VoVanTuTai_Backend_Fullstack_Intern_CV.pdf) |
+[Business Analyst CV](https://vovantutai-portfolio.vercel.app/VoVanTuTai_Business_Analyst_Intern_CV.pdf) |
+[LinkedIn](https://linkedin.com/in/vovantutai) |
+[Email](mailto:tutaivovan@gmail.com) |
+[Phone](tel:+84869500573)
 
 ## What I Bring
 
-- End-to-end web development from responsive interfaces to backend and database workflows
-- Hands-on PHP/MySQL and Express/EJS application experience
-- Practical understanding of CRUD, authentication, roles, validation, and business flows
-- Git-based workflow, Docker Compose setup, project documentation, and domain analysis
+- Build working business applications across UI, backend, authentication, relational data, and reporting.
+- Translate operational problems into actors, workflows, business rules, data models, and API contracts.
+- Trace edge cases across screens, services, and data ownership instead of treating features in isolation.
+- Make projects reviewable through Docker Compose, seed data, tests, diagrams, and clear documentation.
 
-## Technical Skills
+## Technical Profile
 
-| Level | Technologies |
+| Area | Evidence-based experience |
 | --- | --- |
-| Core stack | PHP, HTML/CSS, Bootstrap, JavaScript, MySQL, SQL |
-| Development tools | Git, GitHub, Postman, Docker Compose |
-| Working knowledge | Node.js, Express/EJS, REST APIs |
-| Project familiarity | React/Vite, TypeScript; Java coursework |
-| Project exposure | NestJS, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka, Prisma |
-| Analysis | ERD, database design, BPMN, OpenAPI reading |
+| Application development | PHP, JavaScript, Node.js, Express/EJS, HTML/CSS, Bootstrap, MySQL, REST APIs |
+| Architecture projects | TypeScript, NestJS, React/Vite, PostgreSQL, Prisma, RabbitMQ, Kafka, Redis, Docker |
+| Current Java foundation | Java 21, Spring Boot, JPA, Flyway, PostgreSQL, MockMvc |
+| Business and system analysis | Use cases, business rules, as-is/to-be workflows, BPMN/UML familiarity, ERD, SQL, OpenAPI |
+| Delivery tools | Git, GitHub, Postman, Docker Compose, repository documentation |
 
-## Selected Projects
+## Selected Case Studies
 
-### Practical Web Applications
+### [Nexus Express System](https://github.com/VoVanTuTai/logistics-management-system)
 
-#### [php-online-store](https://github.com/VoVanTuTai/php-online-store)
+**Problem:** Shipment status, scan location, tracking, reporting, and COD can become ambiguous when several teams and services touch the same shipment.
 
-A PHP/MySQL online store with product browsing, login/register, cart, checkout, order status, admin screens, and article pages.
+**Approach:** Mapped actors, exception paths, state transitions, and source-of-truth ownership; organized 12 domain services behind a Gateway/BFF and documented HTTP/event handoffs.
 
-- Developed the original project by hand, then cleaned up parts of the legacy codebase.
-- Added Docker Compose, seed data, demo accounts, screenshots, and setup documentation.
-- Improved role checks, password hashing, prepared statements, output escaping, and delete handling.
+**Evidence:** Five client apps, OpenAPI contracts, Prisma models, RabbitMQ events, outbox/idempotency patterns, Docker infrastructure, and system documentation.
 
-**Main stack:** PHP, MySQL, Bootstrap, JavaScript, jQuery, Docker Compose
+**Stack:** TypeScript, NestJS, React/Vite, PostgreSQL, Prisma, RabbitMQ, Docker
 
-#### [tourist-accommodation-management-system](https://github.com/VoVanTuTai/tourist-accommodation-management-system)
+### [Tourist Accommodation Management System](https://github.com/VoVanTuTai/tourist-accommodation-management-system)
 
-A full-stack booking application covering customer, provider, and admin workflows with Express/EJS/MySQL.
+**Problem:** Customer, provider, and administrator journeys share accommodation and booking data but require different permissions and business rules.
 
-- Developed room search, booking management, session authentication, and role-based screens.
-- Added VNPay/QR payment pages, email support, and PDF/Excel reporting.
+**Approach:** Separated role-based flows for availability, booking, payment, cancellation, review, moderation, and commission reporting.
 
-**Main stack:** Node.js, Express.js, EJS, MySQL, Sequelize
+**Evidence:** Working Express/EJS/MySQL screens, session authentication, role guards, VNPay/QR pages, email support, dashboards, and PDF/Excel exports.
 
-### Architecture Practice Repositories
+**Stack:** Node.js, Express.js, EJS, MySQL, Sequelize
 
-#### [logistics-management-system](https://github.com/VoVanTuTai/logistics-management-system)
+### [Song Tai Shop](https://github.com/VoVanTuTai/php-online-store)
 
-A logistics architecture repository inspired by hands-on post office operations.
+**Problem:** A legacy student project was difficult to run consistently and needed clearer authorization and safer destructive operations.
 
-- Modeled shipment, pickup, scan, dispatch, delivery, and tracking workflows from domain experience.
-- Defined Gateway/BFF and service boundaries, then modeled Prisma data ownership, RabbitMQ events, and Docker Compose flows.
+**Approach:** Added role checks, password hashing, safer output/database handling, POST-based deletion, Docker Compose, seed data, and demo documentation.
 
-**Project stack:** TypeScript, NestJS, React/Vite, PostgreSQL, Prisma, RabbitMQ, Docker
+**Evidence:** Reproducible PHP/MySQL setup with customer checkout, order tracking, and admin product/order workflows.
 
-#### [cab-booking-system](https://github.com/VoVanTuTai/cab-booking-system)
+**Stack:** PHP, MySQL, Bootstrap, JavaScript, Docker Compose
 
-A ride-hailing architecture repository exploring booking and ride workflows.
+### [DevFlow - Current Build](https://github.com/VoVanTuTai/devflow)
 
-- Modeled REST/OpenAPI contracts, service-style modules, Kafka/Redis workflows, and multi-database ownership.
-- Configured Docker Compose for local architecture and infrastructure practice.
+Building a project and task management system to strengthen Java backend fundamentals. The current foundation includes a PostgreSQL schema for users, projects, members, tasks, comments, and activity logs; JPA entities and auditing; Flyway migration; shared API/error responses; and focused MockMvc tests.
 
-**Project stack:** Node.js, Express.js, Kafka, Redis, PostgreSQL, MongoDB, Docker
+**Stack:** Java 21, Spring Boot, JPA, Flyway, PostgreSQL, React/Vite
+
+## Additional Architecture Practice
+
+[Cab Booking System](https://github.com/VoVanTuTai/cab-booking-system) explores ride, driver, pricing, payment, notification, and review workflows using REST/event contracts, Kafka, Redis, multiple databases, reliability patterns, and Docker-based observability.
 
 ## Experience And Education
 
-- **Post Office Operations Staff, J&T Express:** full-time, December 29, 2025 – March 31, 2026
-- **Bachelor of Information Systems, IUH:** expected graduation in 2026, GPA 3.22/4.0
+- **Post Office Operations Staff, J&T Express:** full-time, December 29, 2025 - March 31, 2026
+- **Bachelor of Information Systems, IUH:** 2022 - Present, GPA 3.22/4.0, expected graduation 2027
 - **Location:** Ho Chi Minh City, Vietnam
 
 ## GitHub Activity
@@ -81,9 +81,3 @@ A ride-hailing architecture repository exploring booking and ride workflows.
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VoVanTuTai&theme=github" alt="Vo Van Tu Tai GitHub contribution summary" />
 </p>
-
-## Contact
-
-- Portfolio repository: [github.com/VoVanTuTai/portfolio](https://github.com/VoVanTuTai/portfolio)
-- LinkedIn: [linkedin.com/in/vovantutai](https://linkedin.com/in/vovantutai)
-- Email: [tutaivovan@gmail.com](mailto:tutaivovan@gmail.com)
