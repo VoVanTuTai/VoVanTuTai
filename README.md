@@ -29,6 +29,20 @@ Phone: +84 869 500 573
 
 ## Selected Engineering Case Studies
 
+### [Cab Booking System](https://github.com/VoVanTuTai/cab-booking-system) ⭐ **Featured**
+
+**Problem:** A comprehensive ride-hailing platform requires coordinating booking requests, driver matching, trip dispatch, real-time tracking, payments, and notifications across multiple services and databases.
+
+**My Role:** Product Owner + Main Developer
+- Led product vision, requirements definition, and technical roadmap
+- Implemented core backend services and API contracts (REST/OpenAPI)
+- Architected service boundaries, event-driven workflows (Kafka/Redis), and multi-database ownership patterns
+- Collaborated with Designer and Tester to ensure UX quality and comprehensive coverage
+
+**Work:** Designed scalable workflows for ride-hailing including booking, dispatch, tracking, and payment integration. Built service-oriented architecture with clear separation of concerns (Gateway/BFF, microservices), event streaming for real-time updates, and Docker Compose infrastructure for local development and team onboarding.
+
+**Stack:** Node.js, Express.js, Kafka, Redis, PostgreSQL, MongoDB, Docker, OpenAPI
+
 ### [Nexus Express System](https://github.com/VoVanTuTai/logistics-management-system)
 
 **Problem:** Shipment status, scan location, tracking, reporting, and COD can become ambiguous when several teams and services touch the same shipment.
@@ -45,11 +59,7 @@ Phone: +84 869 500 573
 
 **Stack:** Node.js, Express.js, EJS, MySQL, Sequelize
 
-### [Song Tai Shop](https://github.com/VoVanTuTai/php-online-store)
-
-**Problem:** A legacy student project was difficult to run consistently and needed clearer authorization and safer destructive operations.
-
-**Work:** Reviewed customer/admin permissions and order states, then added role checks, password hashing, safer output/database handling, POST-based deletion, Docker Compose, seed data, and demo documentation.
+### rk:** Reviewed customer/admin permissions and order states, then added role checks, password hashing, safer output/database handling, POST-based deletion, Docker Compose, seed data, and demo documentation.
 
 **Stack:** PHP, MySQL, Bootstrap, JavaScript, Docker Compose
 
