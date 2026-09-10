@@ -41,7 +41,7 @@ Having hands-on experience building and modeling software architectures (relatio
 | :--- | :--- | :--- |
 | **Business Analysis & Modeling** | Requirement Elicitation, PRD & SRS Documentation, User Stories with Acceptance Criteria (Gherkin Given-When-Then), BPMN 2.0 Process Modeling, Use Case Specs, UAT Verification Matrices, Backlog Prioritization, User Manuals & Training. | **Notion**, **Jira**, **ClickUp**, **Camunda Modeler**, **Draw.io**, **Figma**, Agile / Scrum |
 | **Technical Literacy & Architecture** | Relational Data Modeling (ERD, 3NF), SQL Querying, RESTful API Contracts (OpenAPI 3.0, JSON Schemas), Webhooks / IPN Protocols, State Machine Design, Idempotency & Concurrency Rules. | **Postman**, **MySQL**, **PostgreSQL**, **Git**, **GitHub**, **Docker Compose** |
-| **Domain Grounding** | **Travel & Booking Platforms:** Dynamic room inventory, live availability calendars, overbooking prevention, tiered cancellation/refund policies, RBAC.<br>**Payment & Settlement:** Payment gateway integration (VNPay API), asynchronous IPN webhook reconciliation, transaction audit trails.<br>**Logistics & OMS:** End-to-end parcel lifecycles, barcode scan validation, 3-way financial reconciliation (COD), exception flow SOPs (RTO, misroutes). | E-commerce / Travel / Logistics Operations |
+| **Domain Grounding** | **Travel & Booking Platforms:** Dynamic room inventory, live availability calendars, overbooking prevention, tiered cancellation/refund policies, RBAC.<br>**Payment & Settlement:** Payment gateway integration (VNPay API), asynchronous IPN webhook reconciliation, transaction audit trails.<br>**Logistics & OMS:** End-to-end parcel lifecycles, barcode scan validation, operational data auditing, exception flow SOPs (RTO, misroutes). | E-commerce / Travel / Logistics Operations |
 | **Languages** | **English:** Professional Working Proficiency (Fluent in writing technical specifications & business documentation).<br>**Vietnamese:** Native. | — |
 
 ---
@@ -55,7 +55,7 @@ Having hands-on experience building and modeling software architectures (relatio
 - **Key BA Deliverables & Solutions:**
   - **Multi-Stakeholder Alignment & RBAC:** Mapped end-to-end user journeys and drafted a strict Role-Based Access Control matrix separating Guest discovery/checkout, Host room inventory/seasonal pricing, and Admin moderation/commission settlement.
   - **Concurrency Control & Overbooking Prevention:** Designed atomic reservation logic and dynamic availability states (`Available`, `Held/Pending Payment`, `Booked`, `Blocked`) to eliminate race conditions.
-  - **Booking State Machine & Tiered Refund Policy:** Formulated a resilient booking lifecycle (`Pending Payment` → `Confirmed` → `Checked-in` → `Completed` / `Cancelled`) with automated tiered refund rules calculated dynamically against cancellation windows (100% refund > 7 days, 50% 3–7 days, non-refundable < 3 days).
+  - **Booking State Machine & Tiered Refund Policy:** Formulated a resilient booking lifecycle (`Pending Payment` → `Confirmed` → `Checked-in` → `Completed` / `Cancelled`) with automated tiered refund rules calculated dynamically against cancellation windows based on cancellation timeframes to protect host occupancy while providing guest flexibility.
   - **Payment Gateway Integration & Order Settlement:** Specified API contracts for **VNPay API** (payment URL creation, asynchronous IPN webhook validation, callback verification), handling timeout compensations and automated invoice generation.
 - **Tech & Tools:** Express.js, MySQL, Sequelize, VNPay API, Draw.io, OpenAPI.
 
@@ -99,7 +99,7 @@ Having hands-on experience building and modeling software architectures (relatio
 *Sep 2025 – Feb 2026 · Ho Chi Minh City, Vietnam*
 - **End-to-End Process Analysis & Bottleneck Elimination:** Mapped and analyzed physical branch workflows handling 300+ daily parcels across intake, dimensional weighing, barcode checkpoints, and courier dispatch, identifying staging bottlenecks to optimize throughput.
 - **Exception Flows & Root Cause Analysis (RCA):** Formulated standardized procedures (SOPs) for operational failure modes: package misroutes, transit delays, damaged goods claims, address re-routing, and Return to Origin (RTO).
-- **COD Financial Auditing & 3-Way Reconciliation:** Managed daily Cash on Delivery (COD) 3-way financial audits (physical cash collected vs. signed courier receipts vs. digital system ledger) with 100% reconciliation accuracy and zero discrepancy.
+- **Physical-to-Digital Status Consistency:** Conducted daily cross-checks between signed physical delivery sheets and digital software logs, ensuring parcel tracking statuses remained transparent and synchronized.
 - **Domain-to-System Functional Translation:** Transferred operational pain points, scan validation rules, and parcel state machine lifecycles into functional requirements and ERDs for order management software.
 
 ---
