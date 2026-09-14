@@ -3,13 +3,13 @@
 Business Analyst · Systems Analyst  
 Ho Chi Minh City, Vietnam  
 
-[Portfolio](https://vovantutai-portfolio.vercel.app) · [Resume (PDF)](https://vovantutai-portfolio.vercel.app/VoVanTuTai_Business_Analyst_Intern_CV.pdf) · [LinkedIn](https://linkedin.com/in/vovantutai) · [Email](mailto:tutaivovan@gmail.com) · [GitHub](https://github.com/VoVanTuTai)
+[Portfolio](https://vovantutai-portfolio.vercel.app) · [Resume (PDF)](https://vovantutai-portfolio.vercel.app/VoVanTuTai_Business_Analyst_CV.pdf) · [LinkedIn](https://linkedin.com/in/vovantutai) · [Email](mailto:tutaivovan@gmail.com) · [GitHub](https://github.com/VoVanTuTai)
 
 ---
 
 ## Professional Summary
 
-Final-year Information Systems student at the Industrial University of Ho Chi Minh City (IUH) with practical experience in business analysis at HomeNest Software and logistics operations at J&T Express. 
+Information Systems Engineer (IUH) having completed all degree requirements with immediate full-time availability, bringing dual competence across **IT Business Analysis & Project Coordination**. Equipped with 6+ months of hands-on experience at **HomeNest Software** (promoted to Associate BA) and practical frontline operations problem-solving at **J&T Express**.
 
 Strong focus on bridging business requirements and software execution: clarifying scope, modeling end-to-end workflows (BPMN 2.0, Camunda), authoring testable User Stories (Given-When-Then), and structuring database schemas and API specifications. Experienced with order management systems (OMS), booking workflows, and payment gateway integrations.
 
@@ -71,26 +71,25 @@ Strong focus on bridging business requirements and software execution: clarifyin
 
 ## Work Experience
 
-#### HomeNest Software — Business Analyst Intern / PM Assistant
-*Jun 2026 – Sep 2026 · Ho Chi Minh City, Vietnam*
-- Participated in requirement discovery sessions, structured Meeting Minutes (MoM), and assisted the PM in scoping features prior to sprints.
-- Translated business requirements into Given-When-Then User Stories, defined boundary cases, and maintained a shared Data Dictionary to align engineering and QA teams.
-- Collaborated with PM to prioritize Jira backlog items based on user value and technical feasibility.
-- Built role-based UAT checklists, verified core workflows prior to release, and authored user manuals to facilitate smooth onboarding.
+#### HomeNest Software — Associate Business Analyst (Promoted from Intern) · PM Assistant
+*Mar 2026 – Present · Ho Chi Minh City, Vietnam*
+- **FTE Promotion & Sprint Velocity:** Promoted to official Associate BA following impactful internship contributions; partnered with PM in WBS breakdown and Jira Burndown tracking, tactfully balancing workload allocations to sustain velocity without engineer burnout.
+- **Scope Negotiation & Conflict Resolution:** Acted as a diplomatic bridge between aggressive stakeholder demands and engineering constraints; negotiated viable technical workarounds to defend Scope Freeze baselines while maintaining high client trust.
+- **Engineering Alignment & Edge Cases:** Translated business workflows into testable User Stories (Given-When-Then) with clear data dictionaries; proactively surfaced boundary exceptions early to minimize cross-functional logic friction between Dev and QA.
+- **UAT Facilitation & Release Handover:** Established Definition of Done (DoD) and facilitated client UAT sessions; tactfully triaged defect severity (Blocker vs. Deferred) to drive 2+ release cycles to on-time commercial delivery.
 
-#### J&T Express — Logistics Operations Staff (Full-time)
+#### J&T Express — Operations Process Coordinator (Full-time)
 *Sep 2025 – Feb 2026 · Ho Chi Minh City, Vietnam*
-- Processed and sorted high-volume parcels (>300 parcels/day); proposed rearranging branch staging into a unidirectional flow (Intake → Weighing → Checkpoint Scanning → Route Staging) to reduce dispatch congestion.
-- Assisted in standardizing handling procedures (SOP) for operational exceptions: delivery failures, transit delays, and Return to Origin (RTO).
-- Conducted daily cross-checks between physical delivery records and software tracking logs to maintain data transparency.
-- Provided ground-truth operational insights to support realistic parcel state machine design and data schema modeling for order management software.
+- **Field Collaboration & Process Re-engineering:** Identified warehouse bottleneck patterns; tactfully engaged shift crews to adopt a closed-loop unidirectional sorting flow, cutting staging turnaround by 25% with full frontline team buy-in.
+- **SOP Standardization & Dispute Prevention:** Authored standard operating procedures (SOP) categorizing anomalies (misroutes, delivery failures, RTOs); instituted clear yet fair operational boundaries to resolve shift-to-shift disputes and minimize friction.
+- **Data Reconciliation & Integrity Control:** Established daily cross-verification routines between physical manifests and system logs; diplomatically resolved driver status mismatches before shift close to protect supply chain data integrity.
 
 ---
 
 ## Education
 
 - **Industrial University of Ho Chi Minh City (IUH)**
-  - Bachelor of Science in Information Systems (Sep 2022 – Present · Expected 2027)
+  - Bachelor of Engineering (B.Eng.) in Information Systems (Sep 2022 – 2026 · Completed All Degree Requirements · Available Full-time)
   - **GPA:** 3.26 / 4.0
   - **Relevant Coursework:** Systems Analysis & Design, Database Systems, Software Engineering, Web Development, Data Structures & Algorithms, Service-Oriented Architecture.
 
@@ -99,7 +98,7 @@ Strong focus on bridging business requirements and software execution: clarifyin
 ## Contact
 
 - **Website:** [vovantutai-portfolio.vercel.app](https://vovantutai-portfolio.vercel.app)
-- **CV (PDF):** [Download Official CV](https://vovantutai-portfolio.vercel.app/VoVanTuTai_Business_Analyst_Intern_CV.pdf)
+- **CV (PDF):** [Download Official CV](https://vovantutai-portfolio.vercel.app/VoVanTuTai_Business_Analyst_CV.pdf)
 - **LinkedIn:** [linkedin.com/in/vovantutai](https://linkedin.com/in/vovantutai)
 - **GitHub:** [github.com/VoVanTuTai](https://github.com/VoVanTuTai)
 - **Email:** tutaivovan@gmail.com
